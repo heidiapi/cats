@@ -1,0 +1,31 @@
+body{
+  text-align: center;
+  background: linear-gradient(#C1CDC1, #76EEC6, #EEAEEE);
+  font-family: 'Amatic SC', cursive;
+}
+
+img{
+  width: 700px;
+  border: 6px double white;
+  border-radius: 8px;
+}
+
+h1{
+  font-size: 50px;
+}
+
+p{
+  font-size: 25px;
+  font-weight: bold;
+}
+
+input{
+  border: 6px double black;
+  padding: 12px;
+  font-size: 20px;
+  border-radius: 8px;
+}
+
+input[type="submit"]{
+  background:#C1CDC1;
+}
